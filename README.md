@@ -8,7 +8,7 @@
 
 #### Pre-made installation
 
-> **NOTE:** you no longer have to do run build it since its already made. but because mode_modules is empty. you can do npm i or install.
+> **NOTE:** you no longer have to do run build it since its already made. but because node_modules is empty. you can do npm i or install.
 
 ```bash
 # Install dependencies
@@ -17,4 +17,4 @@ npm install
 # Start serving
 npm run serve
 ```
-and enjoj
+and enjoj!
